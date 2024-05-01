@@ -128,6 +128,8 @@ A curated list of excellent resources on serverless technologies and architectur
 
 [IOPipe](https://www.iopipe.com/) - IOpipe is an analytics and distributed tracing service which allows you to see inside Amazon Lambda functions for better insights into the daily operations and development of event driven “serverless” applications.
 
+[Cycle.io](https://cycle.io/) - A Devops platform with integrated serverless-like functionality, alongside other DevOps features like container orchestration, load-balancing, monitoring and more.
+
 ## Tools & Frameworks
 [Serverless Framework](https://github.com/serverless/serverless) - Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more!
 
